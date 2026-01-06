@@ -32,8 +32,6 @@ Controlled inputs
 Description:
 A password generator app that allows users to generate strong passwords based on length and options like numbers and special characters.
 
-📂 Folder: 02PasswordGenerator
-
 🔹 03. Currency Converter
 
 Concepts Used:
@@ -49,15 +47,11 @@ Reusable components
 Description:
 A currency converter application that fetches real-time exchange rates using an external API and converts currencies dynamically.
 
-📂 Folder: 03CurrencyConverter
-
 🔹 04. Router Project
 
 Concepts Used:
 
 React Router
-
-Context API
 
 Multiple pages & navigation
 
@@ -65,8 +59,6 @@ Global state management
 
 Description:
 A multi-page React application demonstrating routing and global state sharing using Context API.
-
-📂 Folder: 04RouterProject
 
 🛠️ Tech Stack
 
